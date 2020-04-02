@@ -1,0 +1,15 @@
+{
+    "name": "cblink/aliyun-log-php-sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nick",
+            "email": "nick@httpd.cc"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["Log_Autoload.php"]
+    }
+}

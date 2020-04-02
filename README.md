@@ -1,5 +1,9 @@
 ﻿# Aliyun Log Service PHP SDK
 
+## Install
+
+`composer require cblink/aliyun-log-php-sdk` 
+
 ## API VERSION
 
 0.6.1
